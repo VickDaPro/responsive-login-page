@@ -39,9 +39,9 @@ function removeEye() {
 }
 
 function support() {
-    alert("Please contact with support team.")
+    alert("Please contact support team.")
 }
 function signIn() {
-    alert("Sign in successfully")
+    alert("Signed in successfully")
 }
 
